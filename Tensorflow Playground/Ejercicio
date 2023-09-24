@@ -1,0 +1,5 @@
+Diviértase trabajando con Tensorflow play ground
+
+https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.30563&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+Lo que debe hacer es entender completamente la herramienta, con todos lo detalles y hacer un cuaderno y un video de máximo una hora, que pueda ser utilizado para enseñarle estos concepto a un niño de máximo 10 años.
